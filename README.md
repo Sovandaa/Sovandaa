@@ -1,27 +1,118 @@
-<img decoding="async" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif" alt="Lofi Gif" title="Lofi Gif">
+<img decoding="async" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif" alt="Lofi Gif" title="Lofi Gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Sovanda</h1>
-<h3 align="center">A passionate frontend & flutter developer</h3>
+<h3 align="center">Passionate Frontend & Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sovandaa&label=Profile%20views&color=0e75b6&style=flat" alt="sovandaa" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@itssovanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itssovanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://www.youtube.com/@eccedxntesiiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@eccedxntesiiast" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vanda_wxng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vanda_wxng" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Sovandaa?tab=repositories" target="_blank">
+    <img alt="Projects" src="https://img.shields.io/badge/-Projects-2ea44f?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:bansovanda.net@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sovandaa&label=Profile%20views&color=0e75b6&style=flat" alt="sovandaa" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovandaa&show_icons=true&locale=en&layout=compact" alt="sovandaa" /></p>
+<table>
+  <tr>
+    <!-- Frontend -->
+    <td><b>Frontend</b></td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Backend -->
+    <td><b>Backend</b></td>
+    <td>
+      <a href="https://nodejs.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+      </a>
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Mobile -->
+    <td><b>Mobile</b></td>
+    <td>
+      <a href="https://flutter.dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+      </a>
+      <a href="https://dart.dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
+      </a>
+      <a href="https://firebase.google.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Languages -->
+    <td><b>Languages</b></td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+      </a>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Tools -->
+    <td><b>Tools</b></td>
+    <td>
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+      </a>
+      <a href="https://postman.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sovandaa&show_icons=true&locale=en" alt="sovandaa" /></p>
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://instagram.com/itssovanda">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@eccedxntesiiast">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sovandaa&" alt="sovandaa" /></p>
+</p>
 
-<!--
-**Sovandaa/Sovandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
 
+### 📊 GitHub Highlights
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sovandaa&show_icons=true&theme=blue-green&hide_border=true">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sovandaa&theme=blue-green&hide_border=true">
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandaa&layout=compact&theme=blue-green&hide_border=true">
+</div>
