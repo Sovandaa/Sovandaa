@@ -1,7 +1,7 @@
 <img decoding="async" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif" alt="Lofi Gif" title="Lofi Gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Sovanda</h1>
-<h3 align="center">Passionate Frontend & Flutter Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/Sovandaa?tab=repositories" target="_blank">
