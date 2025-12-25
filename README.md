@@ -13,6 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=sovandaa&label=Profile%20views&color=0e75b6&style=flat" alt="sovandaa" />
 </p>
 
+### 👨‍💻 About Me
+- 🎓 Computer Science student specializing in software engineering
+- 💻 Currently enhancing my backend skills 
+
 ### 🛠️ Tech Stack
 
 <table>
@@ -101,18 +105,15 @@
   <a href="https://www.youtube.com/@eccedxntesiiast">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-
 </p>
 
 ---
-
 
 ### 📊 GitHub Highlights
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sovandaa&show_icons=true&theme=blue-green&hide_border=true">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sovandaa&theme=blue-green&hide_border=true">
 </div>
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovandaa&layout=compact&theme=blue-green&hide_border=true">
 </div>
